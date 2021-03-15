@@ -1,7 +1,7 @@
 repositories:
   src/leo_description:
     type: git
-    url: https://github.com/LeoRover/leo_description.git
+    url: https://github.com/Marsworks/leo_description.git
     version: erc
   src/leo_gazebo:
     type: git
